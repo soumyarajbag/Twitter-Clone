@@ -4,7 +4,7 @@ import { AiOutlineRetweet, AiOutlineHeart } from "react-icons/ai";
 import { IoStatsChart, IoShareOutline } from "react-icons/io5";
 const MainComponents = () => {
   return (
-    <main className="ml-[300px] mx-2  flex w-[650px] h-full min-h-screen flex-col border-l-[0.5px] border-r-[0.5px] border-gray-600">
+    <main className=" mx-2 w-[50%]   flex  h-full min-h-screen flex-col border-l-[0.5px] border-r-[0.5px] border-gray-600">
     <h1 className="text-xl font-bold  p-6 backdrop-blur bg-black/10 sticky top-0">Home</h1>
     <div className="border-t-[0.5px] border-b-[0.5px] px-4 border-gray-600  py-4 relative flex items-stretch space-x-2">
       <div className="w-10 h-10 bg-slate-400 rounded-full flex-none"></div>
